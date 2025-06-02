@@ -29,8 +29,7 @@ The script will:
 ## 📋 Prerequisites
 
 - Ubuntu 20.04+ or Debian 11+
-- User with sudo privileges
-- Internet connection for downloading packages
+- sudo privileges user
 
 ## 🎯 What Gets Installed
 
